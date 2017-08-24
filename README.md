@@ -3,7 +3,7 @@ Automatic Build Tool for Golang
 
 This tool checks for changes on your go-files in a repository and executes or builds your Go-Projekt constantly. The output of your Go-Application is redirect to the console. For a better usage add the executable to your environment variables .
 
-<b>Examples:<b>
+<b>Examples:</b>
 
 Builds or runs the target_file when it changes: <br>
 <pre> Werkzeug [run|build] -f [target_file] </pre>
