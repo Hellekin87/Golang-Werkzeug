@@ -15,7 +15,7 @@ Builds or runs the target_file with input arguments (don't forget to surround yo
 <pre> Werkzeug [run|build] -f [target_file] -arg " -t 'C:/Users/...' " </pre>
 
 Builds or runs the file which was changed in directory <br> 
-<pre> [run|build] -d [target_dir] </pre>
+<pre> Werkzeug [run|build] -d [target_dir] </pre>
 
 
 
